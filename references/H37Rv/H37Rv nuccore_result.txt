@@ -1,0 +1,4 @@
+
+1. Mycobacterium tuberculosis H37Rv, complete genome
+4,411,532 bp linear DNA 
+NC_000962.3 GI:448814763

@@ -1,0 +1,490 @@
+Property	Source	Source ID	Gene	Organism	Locus Tag	Gene ID	GI	Product	Function	Classification	PubMed	
+Virulence Factor	PATRIC_VF	ERDMAN_0177	ptbB	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_0177		379026261	phosphotyrosine protein phosphatase		[Defense against host immune response]	20167798	
+Virulence Factor	PATRIC_VF	ERDMAN_0329		Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_0329		379026413	hypothetical protein		[Cell surface and membrane proteins]	22360425	
+Virulence Factor	PATRIC_VF	ERDMAN_0512	icl	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_0512		379026595	isocitrate lyase		[Virulence, Intracellular survival and replication]	10963599, 15895072	
+Virulence Factor	PATRIC_VF	ERDMAN_0514	umaA	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_0514		379026597	mycolic acid synthase		[Virulence]	22431648	
+Virulence Factor	PATRIC_VF	ERDMAN_0515	pcaA	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_0515		379026598	mycolic acid synthase		[Virulence]	22431648	
+Virulence Factor	PATRIC_VF	ERDMAN_0552	cmaA2	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_0552		379026635	cyclopropane-fatty-acyl-phospholipid synthase 2		[Virulence]	22431648	
+Virulence Factor	PATRIC_VF	ERDMAN_0711	mmaA4	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_0711		379026790	methoxy mycolic acid synthase		[Virulence]	22431648	
+Virulence Factor	PATRIC_VF	ERDMAN_0712	mmaA3	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_0712		379026791	methoxy mycolic acid synthase		[Virulence]	22431648	
+Virulence Factor	PATRIC_VF	ERDMAN_0713	mmaA2	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_0713		379026792	methoxy mycolic acid synthase		[Virulence]	22431648	
+Virulence Factor	PATRIC_VF	ERDMAN_0714	mmaA1	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_0714		379026793	methoxy mycolic acid synthase		[Virulence]	22431648	
+Virulence Factor	PATRIC_VF	ERDMAN_0719		Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_0719		379026798	sugar kinase		[Cellular metabolism]	23326232	
+Virulence Factor	PATRIC_VF	ERDMAN_1031	pstA1	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_1031		379027104	phosphate ABC transporter transmembrane protein		[Defense against host immune response]	23132496	
+Virulence Factor	PATRIC_VF	ERDMAN_2001	mgtC	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_2001		379028061	Mg2+ transport P-type ATPase C		[Intracellular survival and replication]	10760138	
+Virulence Factor	PATRIC_VF	ERDMAN_2019		Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_2019		379028079	hypothetical protein		[Virulence]	24255121	
+Virulence Factor	PATRIC_VF	ERDMAN_2101	katG	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_2101		379028161	catalase-peroxidase-peroxynitritase T		[Virulence]	15165233	
+Virulence Factor	PATRIC_VF	ERDMAN_2108	aceAb	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_2108		379028168	isocitrate lyase		[Intracellular survival and replication]	15895072	
+Virulence Factor	PATRIC_VF	ERDMAN_2424		Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_2424		379028483	transmembrane protein		[Affect phagosome]	17353284	
+Virulence Factor	PATRIC_VF	ERDMAN_2439	glnA1	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_2439		379028498	glutamine synthetase		[Cellular metabolism]	12819079	
+Virulence Factor	PATRIC_VF	ERDMAN_2956		Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_2956		379029003	integral membrane alanine and leucine richprotein		[Affect phagosome]	17353284	
+Virulence Factor	PATRIC_VF	ERDMAN_2965	ppgK	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_2965		379029012	polyphosphate glucokinase		[Cellular metabolism]	23326232	
+Virulence Factor	PATRIC_VF	ERDMAN_3221	papA5	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_3221		379029267	acyltransferase		[Cellular metabolism]	15070765	
+Virulence Factor	PATRIC_VF	ERDMAN_3222	mas	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_3222		379029268	multifunctional mycocerosic acid synthasemembrane-associated MAS		[Cell surface and membrane proteins, Intracellular survival and replication]	10573420	
+Virulence Factor	PATRIC_VF	ERDMAN_3223	fadD28	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_3223		379029269	acyl-CoA synthetase		[Intracellular survival and replication]	10573420	
+Virulence Factor	PATRIC_VF	ERDMAN_3224	mmpL7	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_3224		379029270	transmembrane transport protein		[Cell surface and membrane proteins, Intracellular survival and replication]	10573420	
+Virulence Factor	PATRIC_VF	ERDMAN_3517	moeB1	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_3517		379029558	molybdopterin biosynthesis-like protein		[Affect phagosome]	17353284	
+Virulence Factor	PATRIC_VF	ERDMAN_3931		Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_3931		379029970	transcription factor		[Regulation of gene expression]		
+Virulence Factor	PATRIC_VF	ERDMAN_4190	mmpL8	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_4190		379030221	integral membrane transport protein		[Cell surface and membrane proteins]	12724526	
+Virulence Factor	PATRIC_VF	ERDMAN_4243		Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_4243		379030274	transmembrane protein		[Type VII secretion]	14557536	
+Virulence Factor	PATRIC_VF	ERDMAN_4245		Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_4245		379030276	hypothetical protein		[Type VII secretion]	14557536	
+Virulence Factor	PATRIC_VF	ERDMAN_4251		Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_4251		379030282	transmembrane protein		[Type VII secretion]	14557536	
+Virulence Factor	PATRIC_VF	ERDMAN_4257		Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_4257		379030288	hypothetical protein		[Type VII secretion]	23869560	
+Virulence Factor	PATRIC_VF	ERDMAN_4259	mycP1	Mycobacterium tuberculosis str. Erdman = ATCC 35801	ERDMAN_4259		379030290	membrane-anchored mycosin		[Intracellular survival and replication]	20227664	
+Virulence Factor	PATRIC_VF	MRA_0910	prrA	Mycobacterium tuberculosis H37Ra	MRA_0910	5214363	148660681	two component response transcriptional regulatory protein PrrA		[Two-component system, Intracellular survival and replication]	11953357	
+Virulence Factor	PATRIC_VF	MRA_1420	lprG	Mycobacterium tuberculosis H37Ra	MRA_1420	5213346	148661202	lipoprotein LprG		[Defense against host immune response]	21078852	
+Virulence Factor	PATRIC_VF	MRA_2063	pks12	Mycobacterium tuberculosis H37Ra	MRA_2063	5211927	148661862	polyketide synthase Pks12		[Defense against host immune responses]	12819062	
+Virulence Factor	PATRIC_VF	MRA_2369	plcC	Mycobacterium tuberculosis H37Ra	MRA_2369	5212285	148662177	phospholipase C 3 PlcC		[Virulence]	12100560	
+Virulence Factor	PATRIC_VF	MT0191	sigG	Mycobacterium tuberculosis CDC1551	MT0191	923074	15839560	RNA polymerase factor sigma-70		[Virulence]	18039768	
+Virulence Factor	PATRIC_VF	MT0269		Mycobacterium tuberculosis CDC1551	MT0269	923184	15839636	PPE family protein		[Virulence]	23448669	
+Virulence Factor	PATRIC_VF	MT0516		Mycobacterium tuberculosis CDC1551	MT0516	923889	15839888	hypothetical protein		[Virulence]	22132215	
+Virulence Factor	PATRIC_VF	MT0618	mce-2	Mycobacterium tuberculosis CDC1551	MT0618	925014	15839991	virulence factor		[Virulence]	16388878	
+Virulence Factor	PATRIC_VF	MT0958		Mycobacterium tuberculosis CDC1551	MT0958	926274	15840354	serine/threonine protein kinase		[Virulence]	22243650, 23776655	
+Virulence Factor	PATRIC_VF	MT1014		Mycobacterium tuberculosis CDC1551	MT1014	925184	15840411	ABC transporter, ATP-binding protein		[Survival inside the host derived vacuole]	15340136	
+Virulence Factor	PATRIC_VF	MT1234		Mycobacterium tuberculosis CDC1551	MT1234	924671	15840640	PPE family protein		[Intracellular survival and replication]	23300718	
+Virulence Factor	PATRIC_VF	MT1898	ureC	Mycobacterium tuberculosis CDC1551	MT1898	923713	15841318	urease subunit alpha		[Cellular metabolism]	22645285	
+Virulence Factor	PATRIC_VF	MT1944		Mycobacterium tuberculosis CDC1551	MT1944	923623	15841364	hypothetical protein		[Intracellular survival and replication]	23408846	
+Virulence Factor	PATRIC_VF	MT2018	mce-3	Mycobacterium tuberculosis CDC1551	MT2018	923491	15841441	virulence factor		[Virulence]	16388878	
+Virulence Factor	PATRIC_VF	MT2129	sigC	Mycobacterium tuberculosis CDC1551	MT2129	924601	15841558	ECF subfamily RNA polymerase sigma factor		[Virulence, Modulate host immune response]	18798983, 15049808	
+Virulence Factor	PATRIC_VF	MT2175		Mycobacterium tuberculosis CDC1551	MT2175	923659	15841607	AAA family ATPase		[Virulence]	17041849	
+Virulence Factor	PATRIC_VF	MT2245		Mycobacterium tuberculosis CDC1551	MT2245	924181	15841680	hypothetical protein		[Cell wall]	22952680	
+Virulence Factor	PATRIC_VF	MT2282		Mycobacterium tuberculosis CDC1551	MT2282	924145	15841716	proteinase, putative		[Virulence]	17428787	
+Virulence Factor	PATRIC_VF	MT2306	fabF-2	Mycobacterium tuberculosis CDC1551	MT2306	924119	161350068	3-oxoacyl-(acyl carrier protein) synthase II		[Cording]	17360388	
+Virulence Factor	PATRIC_VF	MT2466		Mycobacterium tuberculosis CDC1551	MT2466	925879	15841910	hypothetical protein		[Intracellular survival and replication]	21401735	
+Virulence Factor	PATRIC_VF	MT2467		Mycobacterium tuberculosis CDC1551	MT2467	925880	15841911	hypothetical protein		[Intracellular survival and replication]	21401735	
+Virulence Factor	PATRIC_VF	MT2594		Mycobacterium tuberculosis CDC1551	MT2594	925826	15842050	hypothetical protein		[Antibiotics resistance, Virulence]	20305661	
+Virulence Factor	PATRIC_VF	MT2783	sigB	Mycobacterium tuberculosis CDC1551	MT2783	925516	15842248	RNA polymerase sigma factor SigB		[Intracellular survival and replication]	17993538	
+Virulence Factor	PATRIC_VF	MT3320	sigH	Mycobacterium tuberculosis CDC1551	MT3320	922907	15842811	RNA polymerase sigma factor RpoE		[Virulence, Regulation of gene expression, Modulate host immune response]	12060776, 22235255, 22402035, 23359591	
+Virulence Factor	PATRIC_VF	MT3329		Mycobacterium tuberculosis CDC1551	MT3329	922772	15842821	RNA polymerase sigma factor, putative		[Intracellular survival and replication]	23695835	
+Virulence Factor	PATRIC_VF	MT3385	sigF	Mycobacterium tuberculosis CDC1551	MT3385	922492	15842877	RNA polymerase sigma factor SigF		[No evidence of virulence, Intracellular survival and replication]	10992456, 14977982, 17993538	
+Virulence Factor	PATRIC_VF	MT3487		Mycobacterium tuberculosis CDC1551	MT3487	926533	15842972	cyclase, putative		[Survival inside the host derived vacuole]	15340136	
+Virulence Factor	PATRIC_VF	MT3488		Mycobacterium tuberculosis CDC1551	MT3488	926542	15842973	hypothetical protein		[Survival inside the host derived vacuole]	15340136	
+Virulence Factor	PATRIC_VF	MT3491.1		Mycobacterium tuberculosis CDC1551	MT3491.1	926547	15842976	hypothetical protein		[Survival inside the host derived vacuole]	15340136	
+Virulence Factor	PATRIC_VF	MT3523		Mycobacterium tuberculosis CDC1551	MT3523	923111	15843010	RNA polymerase sigma factor SigD		[Virulence]	15659067	
+Virulence Factor	PATRIC_VF	MT3627		Mycobacterium tuberculosis CDC1551	MT3627	922872	15843137	hypothetical protein		[Survival inside the host derived vacuole]	15340136	
+Virulence Factor	PATRIC_VF	MT3917	erp	Mycobacterium tuberculosis CDC1551	MT3917	926330	15843432	exported repetitive protein		[Intracellular survival and replication]	15922669	
+Virulence Factor	PATRIC_VF	Mtub2_010100008163		Mycobacterium tuberculosis 210	Mtub2_010100008163		294994475	hypothetical protein		[Virulence]	19332828	
+Virulence Factor	PATRIC_VF	RVBD_0932c		Mycobacterium tuberculosis H37Rv (Broad)	RVBD_0932c		395137658	periplasmic phosphate-binding lipoprotein PstS2		[Virulence]	15731097	
+Virulence Factor	PATRIC_VF	Rv0022c	whiB5	Mycobacterium tuberculosis H37Rv	Rv0022c	887071	15607164	transcriptional regulatory protein WHIB-like WHIB5		[Regulation of gene expression]	22733573	
+Virulence Factor	PATRIC_VF	Rv0046c	ino1	Mycobacterium tuberculosis H37Rv	Rv0046c	887028	15607188	myo-inositol-1-phosphate synthase INO1 (inositol 1-phosphate synthetase) (D-glucose 6-phosphate cycloaldolase) (glucose 6-phosphate cyclase) (glucocycloaldolase)		[Virulence]	18457997, 14763976	
+Virulence Factor	PATRIC_VF	Rv0097		Mycobacterium tuberculosis H37Rv	Rv0097	886942	15607239	oxidoreductase		[Virulence]	17030567	
+Virulence Factor	PATRIC_VF	Rv0098		Mycobacterium tuberculosis H37Rv	Rv0098	886935	15607240	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0099	fadD10	Mycobacterium tuberculosis H37Rv	Rv0099	886933	15607241	acyl-CoA synthetase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0100		Mycobacterium tuberculosis H37Rv	Rv0100	886931	15607242	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0101	nrp	Mycobacterium tuberculosis H37Rv	Rv0101	886951	15607243	peptide synthetase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0126	treS	Mycobacterium tuberculosis H37Rv	Rv0126	886881	15607268	trehalose synthase TRES		[Virulence]	15703182	
+Virulence Factor	PATRIC_VF	Rv0129c	fbpC	Mycobacterium tuberculosis H37Rv	Rv0129c	886885	57116693	secreted antigen 85-C FBPC (85C) (antigen 85 complex C) (AG58C) (Mycolyl transferase 85C) (fibronectin-binding protein C)		[Cell wall]	12010501	
+Virulence Factor	PATRIC_VF	Rv0153c	ptbB	Mycobacterium tuberculosis H37Rv	Rv0153c	886842	15607295	phosphotyrosine protein phosphatase PTPB (protein-tyrosine-phosphatase) (PTPase)		[Virulence]	24205032, 16256440	
+Virulence Factor	PATRIC_VF	Rv0160c	PE4	Mycobacterium tuberculosis H37Rv	Rv0160c	886825	57116697	PE family protein		[Defense against host immune response]	23104642	
+Virulence Factor	PATRIC_VF	Rv0166	fadD5	Mycobacterium tuberculosis H37Rv	Rv0166	886822	15607307	acyl-CoA synthetase		[Virulence]	20214478	
+Virulence Factor	PATRIC_VF	Rv0168	yrbE1B	Mycobacterium tuberculosis H37Rv	Rv0168	886812	15607309	integral membrane protein YRBE1B		[Virulence]	15804490	
+Virulence Factor	PATRIC_VF	Rv0169	mce1A	Mycobacterium tuberculosis H37Rv	Rv0169	886823	57116701	MCE-family protein MCE1A		[Virulence]	14569030, 21148733	
+Virulence Factor	PATRIC_VF	Rv0170	mce1B	Mycobacterium tuberculosis H37Rv	Rv0170	886810	15607311	MCE-family protein MCE1B		[Virulence]	21148733	
+Virulence Factor	PATRIC_VF	Rv0173	lprK	Mycobacterium tuberculosis H37Rv	Rv0173	886804	15607314	MCE-family lipoprotein LprK		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0175		Mycobacterium tuberculosis H37Rv	Rv0175	886801	15607316	mce associated membrane protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0176		Mycobacterium tuberculosis H37Rv	Rv0176	886799	15607317	mce associated transmembrane protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0180c		Mycobacterium tuberculosis H37Rv	Rv0180c	886792	15607321	transmembrane protein		[Invasion]	20883740	
+Virulence Factor	PATRIC_VF	Rv0189c	ilvD	Mycobacterium tuberculosis H37Rv	Rv0189c	886774	15607330	dihydroxy-acid dehydratase		[Intracellular survival and replication]	20864475	
+Virulence Factor	PATRIC_VF	Rv0195		Mycobacterium tuberculosis H37Rv	Rv0195	886762	15607336	two component transcriptional regulatory protein		[Virulence]	23673208	
+Virulence Factor	PATRIC_VF	Rv0198c		Mycobacterium tuberculosis H37Rv	Rv0198c	886755	15607339	zinc metalloprotease		[Defense against host immune response, Virulence]	18407066, 21216669	
+Virulence Factor	PATRIC_VF	Rv0199		Mycobacterium tuberculosis H37Rv	Rv0199	886753	15607340	hypothetical protein		[Virulence, Virulence]	14569030, 21148733	
+Virulence Factor	PATRIC_VF	Rv0202c	mmpL11	Mycobacterium tuberculosis H37Rv	Rv0202c	886750	15607343	transmembrane transport protein MmpL11		[Virulence]	15908378	
+Virulence Factor	PATRIC_VF	Rv0204c		Mycobacterium tuberculosis H37Rv	Rv0204c	886747	15607345	transmembrane protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0216		Mycobacterium tuberculosis H37Rv	Rv0216	886729	15607357	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0218		Mycobacterium tuberculosis H37Rv	Rv0218	886727	15607359	transmembrane protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0249c		Mycobacterium tuberculosis H37Rv	Rv0249c	886671	15607390	succinate dehydrogenase membrane anchor subunit		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0251c	hsp	Mycobacterium tuberculosis H37Rv	Rv0251c	886667	15607392	heat shock protein hsp (heat-stress-induced ribosome-binding protein A)		[Stress]	15686559	
+Virulence Factor	PATRIC_VF	Rv0285	PE5	Mycobacterium tuberculosis H37Rv	Rv0285	886608	57116715	PE family protein		[Intracellular survival and replication]	23284742	
+Virulence Factor	PATRIC_VF	Rv0287	esxG	Mycobacterium tuberculosis H37Rv	Rv0287	886604	15607428	hypothetical protein		[Affect phagosome]	24204276	
+Virulence Factor	PATRIC_VF	Rv0288	esxH	Mycobacterium tuberculosis H37Rv	Rv0288	886603	15607429	low molecular weight protein antigen 7 ESXH (10 kDa antigen) (CFP-7) (protein TB10.4)		[Affect phagosome]	24204276	
+Virulence Factor	PATRIC_VF	Rv0304c	PPE5	Mycobacterium tuberculosis H37Rv	Rv0304c	886592	57116719	PPE family protein		[Virulence]	17030567	
+Virulence Factor	PATRIC_VF	Rv0326		Mycobacterium tuberculosis H37Rv	Rv0326	886544	15607467	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0342	iniA	Mycobacterium tuberculosis H37Rv	Rv0342	886510	15607483	isoniazid inductible gene protein INIA		[MultiDrug efflux system]	15752203	
+Virulence Factor	PATRIC_VF	Rv0348		Mycobacterium tuberculosis H37Rv	Rv0348	886500	15607489	transcriptional regulatory protein		[Regulation of gene expression]	19648248	
+Virulence Factor	PATRIC_VF	Rv0353	hspR	Mycobacterium tuberculosis H37Rv	Rv0353	885929	15607494	HEAT shock protein transcriptional repressor HspR		[Virulence]	11385512	
+Virulence Factor	PATRIC_VF	Rv0355c	PPE8	Mycobacterium tuberculosis H37Rv	Rv0355c	886491	57116726	PPE family protein		[Virulence]	17030567	
+Virulence Factor	PATRIC_VF	Rv0405	pks6	Mycobacterium tuberculosis H37Rv	Rv0405	886407	15607546	membrane bound polyketide synthase		[Virulence]	17030567	
+Virulence Factor	PATRIC_VF	Rv0410c	pknG	Mycobacterium tuberculosis H37Rv	Rv0410c	886397	15607551	serine/threonine-protein kinase PKNG (protein kinase G) (STPK G)		[Stress]	15186418	
+Virulence Factor	PATRIC_VF	Rv0414c	thiE	Mycobacterium tuberculosis H37Rv	Rv0414c	886391	15607555	thiamine-phosphate pyrophosphorylase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0427c	xthA	Mycobacterium tuberculosis H37Rv	Rv0427c	886370	15607568	exodeoxyribonuclease III protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0432	sodC	Mycobacterium tuberculosis H37Rv	Rv0432	886358	15607573	periplasmic superoxide dismutase [Cu-Zn] SodC		[Defense against host immune response]	24270134	
+Virulence Factor	PATRIC_VF	Rv0450c	mmpL4	Mycobacterium tuberculosis H37Rv	Rv0450c	886323	15607591	transmembrane transport protein MmpL4		[Virulence]	15908378	
+Virulence Factor	PATRIC_VF	Rv0451c	mmpS4	Mycobacterium tuberculosis H37Rv	Rv0451c	886321	15607592	membrane protein		[Iron uptake]	23431276	
+Virulence Factor	PATRIC_VF	Rv0470c	pcaA	Mycobacterium tuberculosis H37Rv	Rv0470c	886284	57116736	mycolic acid synthase pcaA (cyclopropane synthase)		[Cording]	15710652	
+Virulence Factor	PATRIC_VF	Rv0475	hbhA	Mycobacterium tuberculosis H37Rv	Rv0475	886272	15607616	iron-regulated heparin binding hemagglutinin hbhA (adhesin)		[Adhesion]	11705926	
+Virulence Factor	PATRIC_VF	Rv0485		Mycobacterium tuberculosis H37Rv	Rv0485	887170	15607626	transcriptional regulatory protein		[Virulence]	19651861	
+Virulence Factor	PATRIC_VF	Rv0490	senX3	Mycobacterium tuberculosis H37Rv	Rv0490	887185	15607631	putative two component sensor histidine kinase SENX3		[Virulence]	12777483, 14715274	
+Virulence Factor	PATRIC_VF	Rv0491	regX3	Mycobacterium tuberculosis H37Rv	Rv0491	887195	15607632	two component sensory transduction protein RegX3		[Virulence]	12777483, 14715274	
+Virulence Factor	PATRIC_VF	Rv0500	proC	Mycobacterium tuberculosis H37Rv	Rv0500	887256	15607641	pyrroline-5-carboxylate reductase		[Intracellular survival and replication, Cellular metabolism]	11160012	
+Virulence Factor	PATRIC_VF	Rv0513		Mycobacterium tuberculosis H37Rv	Rv0513	887307	15607654	transmembrane protein		[Virulence]	17030567	
+Virulence Factor	PATRIC_VF	Rv0566c		Mycobacterium tuberculosis H37Rv	Rv0566c	887633	15607706	putative nucleotide-binding protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0586		Mycobacterium tuberculosis H37Rv	Rv0586	887754	15607726	GntR family transcriptional regulator		[Virulence]	24007602	
+Virulence Factor	PATRIC_VF	Rv0594	mce2F	Mycobacterium tuberculosis H37Rv	Rv0594	887797	15607734	MCE-family protein MCE2F		[Virulence]	21148733	
+Virulence Factor	PATRIC_VF	Rv0636		Mycobacterium tuberculosis H37Rv	Rv0636	888031	15607776	(3R)-hydroxyacyl-ACP dehydratase subunit HadB		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0642c	mmaA4	Mycobacterium tuberculosis H37Rv	Rv0642c	888056	15607782	methoxy mycolic acid synthase		[Cell wall, Virulence]	10844652, 18535659	
+Virulence Factor	PATRIC_VF	Rv0655	mkl	Mycobacterium tuberculosis H37Rv	Rv0655	888081	15607795	ribonucleotide ABC transporter ATP-binding protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0670	end	Mycobacterium tuberculosis H37Rv	Rv0670	888190	15607810	endonuclease IV		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0677c	mmpS5	Mycobacterium tuberculosis H37Rv	Rv0677c	888233	15607817	hypothetical protein		[Iron uptake]	23431276	
+Virulence Factor	PATRIC_VF	Rv0679c		Mycobacterium tuberculosis H37Rv	Rv0679c	888230	15607819	putative threonine rich protein		[Invasion]	20388213	
+Virulence Factor	PATRIC_VF	Rv0687	fabG	Mycobacterium tuberculosis H37Rv	Rv0687	888279	15607827	3-ketoacyl-(acyl-carrier-protein) reductase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0735	sigL	Mycobacterium tuberculosis H37Rv	Rv0735	888609	15607875	RNA polymerase sigma factor SigL		[Virulence]	16199577, 16552079	
+Virulence Factor	PATRIC_VF	Rv0757	phoP	Mycobacterium tuberculosis H37Rv	Rv0757	888772	15607897	two component system response transcriptional positive regulator PHOP		[Two-component system, Two-component system, Intracellular survival and replication, Modulate host immune response, Autophagy]	11454210, 16573683, 20548782, 21483832, 22105536, 22885411	
+Virulence Factor	PATRIC_VF	Rv0758	phoR	Mycobacterium tuberculosis H37Rv	Rv0758	888775	15607898	two component system response sensor kinase membrane associated PHOR		[Two-component system, Two-component system, Intracellular survival and replication]	16573683, 21483832	
+Virulence Factor	PATRIC_VF	Rv0820	phoT	Mycobacterium tuberculosis H37Rv	Rv0820	885136	15607960	phosphate ABC transporter ATP-binding protein		[Virulence, Phosphate uptake]	14600232, 15928073	
+Virulence Factor	PATRIC_VF	Rv0821c	phoY2	Mycobacterium tuberculosis H37Rv	Rv0821c	885270	15607961	phosphate transport regulator		[Virulence]	20360062	
+Virulence Factor	PATRIC_VF	Rv0847	lpqS	Mycobacterium tuberculosis H37Rv	Rv0847	885051	15607987	lipoprotein LpqS		[Virulence]	23562345	
+Virulence Factor	PATRIC_VF	Rv0867c	rpfA	Mycobacterium tuberculosis H37Rv	Rv0867c	885749	15608007	resuscitation-promoting factor RpfA		[Virulence]	21419703	
+Virulence Factor	PATRIC_VF	Rv0899	ompA	Mycobacterium tuberculosis H37Rv	Rv0899	885286	15608039	outer membrane protein A OMPA		[Cell surface and membrane proteins]	12366842	
+Virulence Factor	PATRIC_VF	Rv0902c	prrB	Mycobacterium tuberculosis H37Rv	Rv0902c	885647	15608042	two component sensor histidine kinase PRRB		[Two-component system, Intracellular survival and replication]	11953357, 22081401	
+Virulence Factor	PATRIC_VF	Rv0903c	prrA	Mycobacterium tuberculosis H37Rv	Rv0903c	885209	15608043	two component response transcriptional regulatory protein PRRA		[Two-component system, Intracellular survival and replication]	22081401	
+Virulence Factor	PATRIC_VF	Rv0930	pstA1	Mycobacterium tuberculosis H37Rv	Rv0930	885589	57116799	phosphate ABC transporter transmembrane protein		[Phosphate uptake]	15928073	
+Virulence Factor	PATRIC_VF	Rv0934	pstS1	Mycobacterium tuberculosis H37Rv	Rv0934	885724	57116801	periplasmic phosphate-binding lipoprotein PSTS1 (PBP-1) (PSTS1)		[Virulence, Affect phagosome]	15731097, 20844580	
+Virulence Factor	PATRIC_VF	Rv0949	uvrD1	Mycobacterium tuberculosis H37Rv	Rv0949	885442	57116803	ATP-dependent DNA helicase II UVRD1		[Intracellular survival and replication]	22467787	
+Virulence Factor	PATRIC_VF	Rv0950c		Mycobacterium tuberculosis H37Rv	Rv0950c	885438	15608090	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv0969	ctpV	Mycobacterium tuberculosis H37Rv	Rv0969	885254	15608109	metal cation transporter P-type ATPase CtpV		[Virulence]	20624225	
+Virulence Factor	PATRIC_VF	Rv0981	mprA	Mycobacterium tuberculosis H37Rv	Rv0981	885038	15608121	two component response transcriptional regulatory protein MprA		[Two-component system]	11675502, 14638785	
+Virulence Factor	PATRIC_VF	Rv0982	mprB	Mycobacterium tuberculosis H37Rv	Rv0982	885062	15608122	two component sensor kinase MprB		[Two-component system]	14638785	
+Virulence Factor	PATRIC_VF	Rv0983	pepD	Mycobacterium tuberculosis H37Rv	Rv0983	885382	15608123	serine protease PepD		[Chaperone, Protease]	18479146	
+Virulence Factor	PATRIC_VF	Rv0986		Mycobacterium tuberculosis H37Rv	Rv0986	885364	15608126	adhesion component transport ATP-binding protein ABC transporter		[Virulence]	17030567	
+Virulence Factor	PATRIC_VF	Rv0990c		Mycobacterium tuberculosis H37Rv	Rv0990c	885343	15608130	hypothetical protein		[Stress]	21602349	
+Virulence Factor	PATRIC_VF	Rv1002c		Mycobacterium tuberculosis H37Rv	Rv1002c	887882	15608142	hypothetical protein		[Virulence]	23550160	
+Virulence Factor	PATRIC_VF	Rv1009	rpfB	Mycobacterium tuberculosis H37Rv	Rv1009	886048	15608149	resuscitation-promoting factor rpfB		[Virulence]	21419703	
+Virulence Factor	PATRIC_VF	Rv1013	pks16	Mycobacterium tuberculosis H37Rv	Rv1013	886035	15608153	acyl-CoA synthetase		[Cellular metabolism]	14569030	
+Virulence Factor	PATRIC_VF	Rv1016c	lpqT	Mycobacterium tuberculosis H37Rv	Rv1016c	886066	15608156	lipoprotein LpqT		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1021		Mycobacterium tuberculosis H37Rv	Rv1021	886052	15608161	nucleoside triphosphate pyrophosphohydrolase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1028A	kdpF	Mycobacterium tuberculosis H37Rv	Rv1028A	3205056	57116812	membrane protein kdpF		[Cording]	23577107	
+Virulence Factor	PATRIC_VF	Rv1028c	kdpD	Mycobacterium tuberculosis H37Rv	Rv1028c	886084	15608168	sensor protein KDPD		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1092c	coaA	Mycobacterium tuberculosis H37Rv	Rv1092c	885120	15608232	pantothenate kinase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1099c	glpX	Mycobacterium tuberculosis H37Rv	Rv1099c	885861	15608239	fructose 1,6-bisphosphatase II		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1109c		Mycobacterium tuberculosis H37Rv	Rv1109c	885828	15608249	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1111c		Mycobacterium tuberculosis H37Rv	Rv1111c	885447	57116830	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1128c		Mycobacterium tuberculosis H37Rv	Rv1128c	885849	15608268	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1144		Mycobacterium tuberculosis H37Rv	Rv1144	885932	15608284	short-chain type dehydrogenase/reductase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1168c	PPE17	Mycobacterium tuberculosis H37Rv	Rv1168c	885990	57116836	PPE family protein		[Modulate host immune response]	22427668	
+Virulence Factor	PATRIC_VF	Rv1183	mmpL10	Mycobacterium tuberculosis H37Rv	Rv1183	886068	15608323	transmembrane transport protein MmpL10		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1184c		Mycobacterium tuberculosis H37Rv	Rv1184c	886063	15608324	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1185c	fadD21	Mycobacterium tuberculosis H37Rv	Rv1185c	886065	15608325	acyl-CoA synthetase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1192		Mycobacterium tuberculosis H37Rv	Rv1192	886007	15608332	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1204c		Mycobacterium tuberculosis H37Rv	Rv1204c	887552	15608344	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1211		Mycobacterium tuberculosis H37Rv	Rv1211	887990	15608351	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1221	sigE	Mycobacterium tuberculosis H37Rv	Rv1221	888751	15608361	RNA polymerase sigma factor SigE		[Stress, Virulence, Regulation of gene expression, Virulence]	11489128, 14638810, 15102817, 16714557, 18657035, 	
+Virulence Factor	PATRIC_VF	Rv1224	tatB	Mycobacterium tuberculosis H37Rv	Rv1224	887143	15608364	sec-independent translocase		[Virulence, Virulence]	14569030, 16952959	
+Virulence Factor	PATRIC_VF	Rv1235	lpqY	Mycobacterium tuberculosis H37Rv	Rv1235	887145	15608375	sugar-binding lipoprotein LpqY		[Virulence]	14569030, 21118978	
+Virulence Factor	PATRIC_VF	Rv1236	sugA	Mycobacterium tuberculosis H37Rv	Rv1236	887124	15608376	sugar-transport integral membrane protein ABC transporter SugA		[Virulence]	14569030, 21118978	
+Virulence Factor	PATRIC_VF	Rv1237	sugB	Mycobacterium tuberculosis H37Rv	Rv1237	887121	15608377	sugar-transport integral membrane protein ABC transporter SugB		[Virulence]	14569030, 21118978	
+Virulence Factor	PATRIC_VF	Rv1238	sugC	Mycobacterium tuberculosis H37Rv	Rv1238	887104	15608378	sugar-transport ATP-binding protein ABC transporter SugC		[Virulence]	14569030, 21118978	
+Virulence Factor	PATRIC_VF	Rv1244	lpqZ	Mycobacterium tuberculosis H37Rv	Rv1244	887093	15608384	lipoprotein LpqZ		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1266c	pknH	Mycobacterium tuberculosis H37Rv	Rv1266c	887023	15608406	transmembrane serine/threonine-protein kinase H		[Virulence]	23412844	
+Virulence Factor	PATRIC_VF	Rv1272c		Mycobacterium tuberculosis H37Rv	Rv1272c	887021	15608412	drugs-transport transmembrane ATP-binding protein ABC transporter		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1284		Mycobacterium tuberculosis H37Rv	Rv1284	886987	15608424	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1290c		Mycobacterium tuberculosis H37Rv	Rv1290c	886971	15608430	hypothetical protein		[Virulence]	12368431	
+Virulence Factor	PATRIC_VF	Rv1293	lysA	Mycobacterium tuberculosis H37Rv	Rv1293	886960	15608433	diaminopimelate decarboxylase LysA		[Defense against host immune response]	21264335	
+Virulence Factor	PATRIC_VF	Rv1304	atpB	Mycobacterium tuberculosis H37Rv	Rv1304	886941	15608444	F0F1 ATP synthase subunit A		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1323	fadA4	Mycobacterium tuberculosis H37Rv	Rv1323	886904	15608463	acetyl-CoA acetyltransferase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1332		Mycobacterium tuberculosis H37Rv	Rv1332	886901	15608472	transcriptional regulatory protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1333		Mycobacterium tuberculosis H37Rv	Rv1333	886882	15608473	hydrolase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1338	murI	Mycobacterium tuberculosis H37Rv	Rv1338	886866	15608478	glutamate racemase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1345	fadD33	Mycobacterium tuberculosis H37Rv	Rv1345	886855	15608485	long-chain-fatty-acid--[acyl-carrier-protein] ligase		[Intracellular survival and replication, Intracellular survival and replication]	12480891, 15164622	
+Virulence Factor	PATRIC_VF	Rv1348		Mycobacterium tuberculosis H37Rv	Rv1348	886853	15608488	drugs-transport transmembrane ATP-binding protein ABC transporter		[Iron uptake]	16385031, 18461140, 19948799	
+Virulence Factor	PATRIC_VF	Rv1349		Mycobacterium tuberculosis H37Rv	Rv1349	886834	15608489	drugs-transport transmembrane ATP-binding protein ABC transporter		[Iron uptake]	16385031, 18461140, 19948799	
+Virulence Factor	PATRIC_VF	Rv1354c		Mycobacterium tuberculosis H37Rv	Rv1354c	886829	15608494	hypothetical protein		[Virulence]	24080120	
+Virulence Factor	PATRIC_VF	Rv1357c		Mycobacterium tuberculosis H37Rv	Rv1357c	886815	15608497	hypothetical protein		[Virulence]	24080120	
+Virulence Factor	PATRIC_VF	Rv1371		Mycobacterium tuberculosis H37Rv	Rv1371	886800	15608511	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1386	PE15	Mycobacterium tuberculosis H37Rv	Rv1386	886757	57116857	PE family protein		[Intracellular survival and replication]	23284742	
+Virulence Factor	PATRIC_VF	Rv1405c		Mycobacterium tuberculosis H37Rv	Rv1405c	886714	15608543	putative methyltransferase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1410c		Mycobacterium tuberculosis H37Rv	Rv1410c	886709	15608548	aminoglycosides/tetracycline-transport integral membrane protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1411c	lprG	Mycobacterium tuberculosis H37Rv	Rv1411c	886700	15608549	lipoprotein LprG		[Virulence]	14569030, 14998516, 20694006	
+Virulence Factor	PATRIC_VF	Rv1422		Mycobacterium tuberculosis H37Rv	Rv1422	886670	15608560	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1460		Mycobacterium tuberculosis H37Rv	Rv1460	886573	57116868	transcriptional regulatory protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1465		Mycobacterium tuberculosis H37Rv	Rv1465	886569	15608603	nitrogen fixation related protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1469	ctpD	Mycobacterium tuberculosis H37Rv	Rv1469	886578	15608607	cation transporter P-type ATPase D		[Virulence, Intracellular survival and replication]	14569030, 24255990	
+Virulence Factor	PATRIC_VF	Rv1502		Mycobacterium tuberculosis H37Rv	Rv1502	886486	15608640	hypothetical protein		[Virulence]	17030567	
+Virulence Factor	PATRIC_VF	Rv1503c		Mycobacterium tuberculosis H37Rv	Rv1503c	886488	15608641	hypothetical protein		[Affect phagosome]	20844580	
+Virulence Factor	PATRIC_VF	Rv1506c		Mycobacterium tuberculosis H37Rv	Rv1506c	886479	15608644	hypothetical protein		[Affect phagosome]	20844580	
+Virulence Factor	PATRIC_VF	Rv1514c		Mycobacterium tuberculosis H37Rv	Rv1514c	886457	15608652	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1524		Mycobacterium tuberculosis H37Rv	Rv1524	885814	15608662	glycosyltransferase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1527c	pks5	Mycobacterium tuberculosis H37Rv	Rv1527c	886442	15608665	polyketide synthase pks5		[Virulence]	12855735	
+Virulence Factor	PATRIC_VF	Rv1539	lspA	Mycobacterium tuberculosis H37Rv	Rv1539	886408	15608677	lipoprotein signal peptidase		[Cell surface and membrane proteins, Defense against host immune response]	15186407, 18832305	
+Virulence Factor	PATRIC_VF	Rv1560		Mycobacterium tuberculosis H37Rv	Rv1560	886359	15608698	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1568	bioA	Mycobacterium tuberculosis H37Rv	Rv1568	886343	15608706	adenosylmethionine--8-amino-7-oxononanoate transaminase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1569	bioF1	Mycobacterium tuberculosis H37Rv	Rv1569	886345	57116887	8-amino-7-oxononanoate synthase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1589	bioB	Mycobacterium tuberculosis H37Rv	Rv1589	886301	15608727	biotin synthase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1590		Mycobacterium tuberculosis H37Rv	Rv1590	886292	15608728	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1638	uvrA	Mycobacterium tuberculosis H37Rv	Rv1638	885685	15608776	excinuclease ABC subunit A		[Intracellular survival and replication]	22467787	
+Virulence Factor	PATRIC_VF	Rv1640c	lysS	Mycobacterium tuberculosis H37Rv	Rv1640c	885428	15608778	lysyl-tRNA synthetase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1651c	PE_PGRS30	Mycobacterium tuberculosis H37Rv	Rv1651c	885174	57116897	PE-PGRS family protein		[Virulence]	22050772	
+Virulence Factor	PATRIC_VF	Rv1653	argJ	Mycobacterium tuberculosis H37Rv	Rv1653	885125	15608791	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1660	pks10	Mycobacterium tuberculosis H37Rv	Rv1660	885112	15608798	chalcone synthase		[Virulence]	12730158	
+Virulence Factor	PATRIC_VF	Rv1661	pks7	Mycobacterium tuberculosis H37Rv	Rv1661	885108	15608799	polyketide synthase pks7		[Virulence]	12855735	
+Virulence Factor	PATRIC_VF	Rv1696	recN	Mycobacterium tuberculosis H37Rv	Rv1696	885805	15608834	DNA repair protein recN (recombination protein N)		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1710		Mycobacterium tuberculosis H37Rv	Rv1710	885116	15608848	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1743	pknE	Mycobacterium tuberculosis H37Rv	Rv1743	885284	15608881	transmembrane serine/threonine-protein kinase E		[Anti-apoptosis]	17892498	
+Virulence Factor	PATRIC_VF	Rv1747		Mycobacterium tuberculosis H37Rv	Rv1747	885311	15608885	transmembrane ATP-binding protein ABC transporter		[Virulence]	23915284, 16040957, 21622570	
+Virulence Factor	PATRIC_VF	Rv1755c	plcD	Mycobacterium tuberculosis H37Rv	Rv1755c	885566	15608893	phospholipase C 4 PLCD		[Virulence]	12100560	
+Virulence Factor	PATRIC_VF	Rv1782		Mycobacterium tuberculosis H37Rv	Rv1782	885347	15608920	hypothetical protein		[Type VII secretion]	23284869	
+Virulence Factor	PATRIC_VF	Rv1783		Mycobacterium tuberculosis H37Rv	Rv1783	885898	15608921	hypothetical protein		[Type VII secretion]	23284869	
+Virulence Factor	PATRIC_VF	Rv1787	PPE25	Mycobacterium tuberculosis H37Rv	Rv1787	885827	57116909	PPE family protein		[Type VII secretion]	22340629, 22520463	
+Virulence Factor	PATRIC_VF	Rv1788	PE18	Mycobacterium tuberculosis H37Rv	Rv1788	885895	57116910	PE family protein		[Type VII secretion]	22340629, 22520463	
+Virulence Factor	PATRIC_VF	Rv1789	PPE26	Mycobacterium tuberculosis H37Rv	Rv1789	885333	57116911	PPE family protein		[Type VII secretion]	22340629, 22520463	
+Virulence Factor	PATRIC_VF	Rv1790	PPE27	Mycobacterium tuberculosis H37Rv	Rv1790	885859	57116912	PPE family protein		[Type VII secretion]	22340629, 22520463	
+Virulence Factor	PATRIC_VF	Rv1791	PE19	Mycobacterium tuberculosis H37Rv	Rv1791	885445	57116913	PE family protein		[Type VII secretion]	22340629, 22520463	
+Virulence Factor	PATRIC_VF	Rv1795		Mycobacterium tuberculosis H37Rv	Rv1795	885628	15608932	hypothetical protein		[Type VII secretion]	22340629	
+Virulence Factor	PATRIC_VF	Rv1798		Mycobacterium tuberculosis H37Rv	Rv1798	885543	15608935	hypothetical protein		[Type VII secretion]	22340629	
+Virulence Factor	PATRIC_VF	Rv1807	PPE31	Mycobacterium tuberculosis H37Rv	Rv1807	885072	57116920	PPE family protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1812c		Mycobacterium tuberculosis H37Rv	Rv1812c	885487	15608949	dehydrogenase		[Modulate host immune response]	22689819	
+Virulence Factor	PATRIC_VF	Rv1813c		Mycobacterium tuberculosis H37Rv	Rv1813c	885546	15608950	hypothetical protein		[Modulate host immune response]	22689819	
+Virulence Factor	PATRIC_VF	Rv1817		Mycobacterium tuberculosis H37Rv	Rv1817	885548	15608954	hypothetical protein		[Virulence]	17030567	
+Virulence Factor	PATRIC_VF	Rv1818c	PE_PGRS33	Mycobacterium tuberculosis H37Rv	Rv1818c	885551	57116923	PE-PGRS family protein		[Adhesion]	11705904	
+Virulence Factor	PATRIC_VF	Rv1821	secA2	Mycobacterium tuberculosis H37Rv	Rv1821	885594	15608958	preprotein translocase subunit SecA		[Intracellular survival and replication, Virulence, Affect phagosome, Secretion]	17030572, 17671656, 18487341, 22215736, 12675804	
+Virulence Factor	PATRIC_VF	Rv1876	bfrA	Mycobacterium tuberculosis H37Rv	Rv1876	885767	15609013	bacterioferritin		[Intracellular survival and replication]	22101841	
+Virulence Factor	PATRIC_VF	Rv1884c	rpfC	Mycobacterium tuberculosis H37Rv	Rv1884c	885759	15609021	resuscitation-promoting factor RpfC		[Virulence]	21419703	
+Virulence Factor	PATRIC_VF	Rv1886c	fbpB	Mycobacterium tuberculosis H37Rv	Rv1886c	885785	15609023	secreted antigen 85-B fbpB (85B) (antigen 85 complex B) (Mycolyl transferase 85B) (fibronectin-binding protein B) (extracellular alpha-antigen)		[No evidence of virulence, Cell wall]	10639445, 12010501	
+Virulence Factor	PATRIC_VF	Rv1891		Mycobacterium tuberculosis H37Rv	Rv1891	885094	15609028	hypothetical protein		[Virulence]	12368431	
+Virulence Factor	PATRIC_VF	Rv1908c	katG	Mycobacterium tuberculosis H37Rv	Rv1908c	885638	15609045	catalase-peroxidase-peroxynitritase T KATG		[Virulence]	9119479, 9534978	
+Virulence Factor	PATRIC_VF	Rv1930c		Mycobacterium tuberculosis H37Rv	Rv1930c	885344	15609067	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1931c		Mycobacterium tuberculosis H37Rv	Rv1931c	885437	15609068	transcriptional regulatory protein		[Virulence]	14569030, 15322050	
+Virulence Factor	PATRIC_VF	Rv1932	tpx	Mycobacterium tuberculosis H37Rv	Rv1932	885357	15609069	thiol peroxidase		[Stress]	19340292	
+Virulence Factor	PATRIC_VF	Rv1936		Mycobacterium tuberculosis H37Rv	Rv1936	885882	15609073	monooxygenase		[Virulence]	19349422	
+Virulence Factor	PATRIC_VF	Rv1937		Mycobacterium tuberculosis H37Rv	Rv1937	885433	15609074	oxygenase		[Virulence]	19349422	
+Virulence Factor	PATRIC_VF	Rv1938	ephB	Mycobacterium tuberculosis H37Rv	Rv1938	885392	15609075	epoxide hydrolase EphB		[Virulence]	19349422	
+Virulence Factor	PATRIC_VF	Rv1939		Mycobacterium tuberculosis H37Rv	Rv1939	885488	15609076	oxidoreductase		[Virulence]	14569030, 19349422	
+Virulence Factor	PATRIC_VF	Rv1940	ribA1	Mycobacterium tuberculosis H37Rv	Rv1940	885621	57116930	riboflavin biosynthesis protein ribA1 (GTP cyclohydrolase II)		[Virulence]	19349422	
+Virulence Factor	PATRIC_VF	Rv1941		Mycobacterium tuberculosis H37Rv	Rv1941	885622	15609078	short-chain type dehydrogenase/reductase		[Virulence]	19349422	
+Virulence Factor	PATRIC_VF	Rv1966	mce3A	Mycobacterium tuberculosis H37Rv	Rv1966	885944	57116931	MCE-family protein MCE3A		[Virulence]	15804490	
+Virulence Factor	PATRIC_VF	Rv1967	mce3B	Mycobacterium tuberculosis H37Rv	Rv1967	885943	15609104	MCE-family protein MCE3B		[Virulence]		
+Virulence Factor	PATRIC_VF	Rv1974		Mycobacterium tuberculosis H37Rv	Rv1974	885935	15609111	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv1979c		Mycobacterium tuberculosis H37Rv	Rv1979c	885819	15609116	permease		[Modulate host immune response]	20974821	
+Virulence Factor	PATRIC_VF	Rv1980c	mpt64	Mycobacterium tuberculosis H37Rv	Rv1980c	885925	15609117	immunogenic protein MPT64 (antigen MPT64/MPB64)		[Modulate host immune response]	20974821	
+Virulence Factor	PATRIC_VF	Rv1981c	nrdF1	Mycobacterium tuberculosis H37Rv	Rv1981c	885923	57116932	ribonucleotide-diphosphate reductase subunit beta		[Modulate host immune response]	20974821	
+Virulence Factor	PATRIC_VF	Rv1982c		Mycobacterium tuberculosis H37Rv	Rv1982c	885816	15609119	hypothetical protein		[Modulate host immune response]	20974821	
+Virulence Factor	PATRIC_VF	Rv2004c		Mycobacterium tuberculosis H37Rv	Rv2004c	888817	15609141	hypothetical protein		[Virulence, Cell surface and membrane proteins]	14569030, 16199660	
+Virulence Factor	PATRIC_VF	Rv2031c	hspX	Mycobacterium tuberculosis H37Rv	Rv2031c	887579	15609168	heat shock protein hspX		[Intracellular survival and replication, Cellular metabolism, Chaperone]	9689123	
+Virulence Factor	PATRIC_VF	Rv2032	acg	Mycobacterium tuberculosis H37Rv	Rv2032	887582	15609169	hypothetical protein		[Virulence]	21687631	
+Virulence Factor	PATRIC_VF	Rv2038c		Mycobacterium tuberculosis H37Rv	Rv2038c	887998	15609175	sugar-transport ATP-binding protein ABC transporter		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2040c		Mycobacterium tuberculosis H37Rv	Rv2040c	887893	15609177	sugar-transport integral membrane protein ABC transporter		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2048c	pks12	Mycobacterium tuberculosis H37Rv	Rv2048c	888350	15609185	polyketide synthase pks12		[Molecular mimicry]	15611286	
+Virulence Factor	PATRIC_VF	Rv2069	sigC	Mycobacterium tuberculosis H37Rv	Rv2069	888723	15609206	RNA polymerase sigma factor SigC		[Virulence]	16735723	
+Virulence Factor	PATRIC_VF	Rv2072c	cobL	Mycobacterium tuberculosis H37Rv	Rv2072c	888321	15609209	precorrin-6y methyltransferase CobL		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2123	PPE37	Mycobacterium tuberculosis H37Rv	Rv2123	888710	57116948	PPE family protein		[Defense against host immune response]	21233299	
+Virulence Factor	PATRIC_VF	Rv2127	ansP1	Mycobacterium tuberculosis H37Rv	Rv2127	887715	57116950	L-asparagine permease ansP1		[Acquisition of nutrients]	24077180	
+Virulence Factor	PATRIC_VF	Rv2136c	uppP	Mycobacterium tuberculosis H37Rv	Rv2136c	887612	15609273	undecaprenyl pyrophosphate phosphatase		[Acid resistance]	19011036	
+Virulence Factor	PATRIC_VF	Rv2171	lppM	Mycobacterium tuberculosis H37Rv	Rv2171	887522	15609308	lipoprotein lppM		[Affect phagosome]	20844580	
+Virulence Factor	PATRIC_VF	Rv2192c	trpD	Mycobacterium tuberculosis H37Rv	Rv2192c	887681	15609329	anthranilate phosphoribosyltransferase		[Intracellular survival and replication, Cellular metabolism, Virulence]	11160012, 18457997	
+Virulence Factor	PATRIC_VF	Rv2200c	ctaC	Mycobacterium tuberculosis H37Rv	Rv2200c	888799	15609337	transmembrane cytochrome C oxidase subunit II CtaC		[Virulence]	21148733	
+Virulence Factor	PATRIC_VF	Rv2211c	gcvT	Mycobacterium tuberculosis H37Rv	Rv2211c	887233	15609348	glycine cleavage system aminomethyltransferase T		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2224c		Mycobacterium tuberculosis H37Rv	Rv2224c	887857	15609361	exported protease		[Acid resistance, Virulence]	19011036, 14569030	
+Virulence Factor	PATRIC_VF	Rv2227		Mycobacterium tuberculosis H37Rv	Rv2227	888581	15609364	hypothetical protein		[Virulence]	17030567	
+Virulence Factor	PATRIC_VF	Rv2231c	cobC	Mycobacterium tuberculosis H37Rv	Rv2231c	888337	15609368	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2234	ptpA	Mycobacterium tuberculosis H37Rv	Rv2234	887373	15609371	phosphotyrosine protein phosphatase PTPA (protein-tyrosine-phosphatase) (PTPase) (LMW phosphatase)		[Virulence, Intracellular survival and replication, Affect phagosome]	24205032, 18474358, 22087003	
+Virulence Factor	PATRIC_VF	Rv2241	aceE	Mycobacterium tuberculosis H37Rv	Rv2241	887246	15609378	pyruvate dehydrogenase subunit E1		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2246	kasB	Mycobacterium tuberculosis H37Rv	Rv2246	887539	15609383	3-oxoacyl-(acyl carrier protein) synthase II		[Cording]	17360388	
+Virulence Factor	PATRIC_VF	Rv2275		Mycobacterium tuberculosis H37Rv	Rv2275	888355	15609412	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2277c		Mycobacterium tuberculosis H37Rv	Rv2277c	888498	15609414	glycerolphosphodiesterase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2301	cut2	Mycobacterium tuberculosis H37Rv	Rv2301	885371	57116961	cutinase CUT2		[Invasion]	21594640	
+Virulence Factor	PATRIC_VF	Rv2335	cysE	Mycobacterium tuberculosis H37Rv	Rv2335	886012	15609472	serine acetyltransferase CysE		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2336		Mycobacterium tuberculosis H37Rv	Rv2336	888958	15609473	hypothetical protein		[Virulence]	17030567	
+Virulence Factor	PATRIC_VF	Rv2350c	plcB	Mycobacterium tuberculosis H37Rv	Rv2350c	885999	15609487	membrane-associated phospholipase C		[Virulence]	12100560	
+Virulence Factor	PATRIC_VF	Rv2351c	plcA	Mycobacterium tuberculosis H37Rv	Rv2351c	885995	15609488	membrane-associated phospholipase C		[Virulence]	12100560	
+Virulence Factor	PATRIC_VF	Rv2359	furB	Mycobacterium tuberculosis H37Rv	Rv2359	886009	15609496	ferric uptake regulation protein FURB		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2374c	hrcA	Mycobacterium tuberculosis H37Rv	Rv2374c	885924	15609511	heat-inducible transcription repressor		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2377c	mbtH	Mycobacterium tuberculosis H37Rv	Rv2377c	885968	15609514	putative protein MbtH		[Iron uptake, Cellular metabolism]	9831524	
+Virulence Factor	PATRIC_VF	Rv2378c	mbtG	Mycobacterium tuberculosis H37Rv	Rv2378c	885648	15609515	lysine-N-oxygenase MBTG (L-lysine 6-monooxygenase) (lysine N6-hydroxylase)		[Iron uptake, Cellular metabolism]	9831524	
+Virulence Factor	PATRIC_VF	Rv2379c	mbtF	Mycobacterium tuberculosis H37Rv	Rv2379c	885874	15609516	peptide synthetase MBTF (peptide synthase)		[Iron uptake, Cellular metabolism]	9831524	
+Virulence Factor	PATRIC_VF	Rv2380c	mbtE	Mycobacterium tuberculosis H37Rv	Rv2380c	885822	15609517	peptide synthetase MBTE (peptide synthase)		[Iron uptake, Cellular metabolism]	9831524, 23788726	
+Virulence Factor	PATRIC_VF	Rv2381c	mbtD	Mycobacterium tuberculosis H37Rv	Rv2381c	885850	15609518	polyketide synthetase MBTD (polyketide synthase)		[Iron uptake, Cellular metabolism]	9831524	
+Virulence Factor	PATRIC_VF	Rv2382c	mbtC	Mycobacterium tuberculosis H37Rv	Rv2382c	885908	15609519	polyketide synthetase MBTC (polyketide synthase)		[Iron uptake, Cellular metabolism]	9831524	
+Virulence Factor	PATRIC_VF	Rv2383c	mbtB	Mycobacterium tuberculosis H37Rv	Rv2383c	885838	15609520	phenyloxazoline synthase MBTB (phenyloxazoline synthetase)		[Iron uptake, Cellular metabolism]	9831524, 10655517	
+Virulence Factor	PATRIC_VF	Rv2384	mbtA	Mycobacterium tuberculosis H37Rv	Rv2384	885833	15609521	bifunctional salicyl-AMP ligase/salicyl-S-arcp synthetase		[Iron uptake, Cellular metabolism]	9831524	
+Virulence Factor	PATRIC_VF	Rv2387		Mycobacterium tuberculosis H37Rv	Rv2387	885302	15609524	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2388c	hemN	Mycobacterium tuberculosis H37Rv	Rv2388c	885300	15609525	coproporphyrinogen III oxidase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2389c	rpfD	Mycobacterium tuberculosis H37Rv	Rv2389c	885246	15609526	resuscitation-promoting factor RpfD		[Virulence]	21419703	
+Virulence Factor	PATRIC_VF	Rv2391	nirA	Mycobacterium tuberculosis H37Rv	Rv2391	885472	15609528	ferredoxin-dependent nitrite reductase NIRA		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2392	cysH	Mycobacterium tuberculosis H37Rv	Rv2392	885250	15609529	phosphoadenosine phosphosulfate reductase		[Intracellular survival and replication]	16553880	
+Virulence Factor	PATRIC_VF	Rv2396	PE_PGRS41	Mycobacterium tuberculosis H37Rv	Rv2396	885517	57116982	PE-PGRS family protein		[Intracellular survival and replication]	21401735	
+Virulence Factor	PATRIC_VF	Rv2416c	eis	Mycobacterium tuberculosis H37Rv	Rv2416c	885903	57116987	hypothetical protein		[Antiphagocytosis]	21187903	
+Virulence Factor	PATRIC_VF	Rv2428	ahpC	Mycobacterium tuberculosis H37Rv	Rv2428	885717	15609565	alkyl hydroperoxide reductase subunit C		[Survival inside the host derived vacuole]	12368447	
+Virulence Factor	PATRIC_VF	Rv2437		Mycobacterium tuberculosis H37Rv	Rv2437	885906	15609574	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2445c	ndk	Mycobacterium tuberculosis H37Rv	Rv2445c	885905	15609582	nucleoside diphosphate kinase		[Affect phagosome, Defense against host immune response]	20098737, 23874203	
+Virulence Factor	PATRIC_VF	Rv2450c	rpfE	Mycobacterium tuberculosis H37Rv	Rv2450c	885760	15609587	resuscitation-promoting factor RpfE		[Virulence]	21419703	
+Virulence Factor	PATRIC_VF	Rv2472		Mycobacterium tuberculosis H37Rv	Rv2472	887255	15609609	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2483c	plsC	Mycobacterium tuberculosis H37Rv	Rv2483c	887744	15609620	bifunctionnal putative L-3-phosphoserine phosphatase/1-acyl-SN-glycerol-3-phosphate acyltransferase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2502c	accD1	Mycobacterium tuberculosis H37Rv	Rv2502c	887168	15609639	acetyl-/propionyl-CoA carboxylase subunit beta		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2553c		Mycobacterium tuberculosis H37Rv	Rv2553c	888228	15609690	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2583c	relA	Mycobacterium tuberculosis H37Rv	Rv2583c	887888	15609720	GTP pyrophosphokinase		[Stress]	10940033	
+Virulence Factor	PATRIC_VF	Rv2692	ceoC	Mycobacterium tuberculosis H37Rv	Rv2692	887493	57117016	TRK system potassium uptake protein CEOC		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2696c		Mycobacterium tuberculosis H37Rv	Rv2696c	888482	15609833	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2702	ppgK	Mycobacterium tuberculosis H37Rv	Rv2702	887313	15609839	polyphosphate glucokinase PPGK (polyphosphate-glucose phosphotransferase)		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2703	sigA	Mycobacterium tuberculosis H37Rv	Rv2703	887477	15609840	RNA polymerase sigma factor		[Regulation of gene expression]	14600232, 15009884	
+Virulence Factor	PATRIC_VF	Rv2707		Mycobacterium tuberculosis H37Rv	Rv2707	887750	15609844	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2711	ideR	Mycobacterium tuberculosis H37Rv	Rv2711	888590	15609848	IRON-dependent repressor and activator IDER		[Regulation of gene expression, Iron uptake, Cellular metabolism]	12065475, 24205844	
+Virulence Factor	PATRIC_VF	Rv2734		Mycobacterium tuberculosis H37Rv	Rv2734	888303	15609871	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2745c		Mycobacterium tuberculosis H37Rv	Rv2745c	888315	15609882	transcriptional regulatory protein		[Regulation of gene expression]	20688819	
+Virulence Factor	PATRIC_VF	Rv2794c		Mycobacterium tuberculosis H37Rv	Rv2794c	888226	15609931	hypothetical protein		[Intracellular survival and replication]	23308068	
+Virulence Factor	PATRIC_VF	Rv2808		Mycobacterium tuberculosis H37Rv	Rv2808	888944	15609945	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2813		Mycobacterium tuberculosis H37Rv	Rv2813	888570	15609950	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2820c		Mycobacterium tuberculosis H37Rv	Rv2820c	888908	15609957	hypothetical protein		[Virulence]	21362467	
+Virulence Factor	PATRIC_VF	Rv2845c	proS	Mycobacterium tuberculosis H37Rv	Rv2845c	888539	15609982	prolyl-tRNA synthetase		[Virulence, Cellular metabolism]	14569030	
+Virulence Factor	PATRIC_VF	Rv2857c		Mycobacterium tuberculosis H37Rv	Rv2857c	888560	15609994	short chain dehydrogenase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2865		Mycobacterium tuberculosis H37Rv	Rv2865	887458	15610002	hypothetical protein		[Toxin]	23523424	
+Virulence Factor	PATRIC_VF	Rv2866		Mycobacterium tuberculosis H37Rv	Rv2866	887450	15610003	hypothetical protein		[Toxin]	23523424	
+Virulence Factor	PATRIC_VF	Rv2869c		Mycobacterium tuberculosis H37Rv	Rv2869c	887449	15610006	transmembrane protein		[Virulence, Cording]	16034419, 16731018	
+Virulence Factor	PATRIC_VF	Rv2873	mpt83	Mycobacterium tuberculosis H37Rv	Rv2873	887155	15610010	cell surface lipoprotein mpt83 (lipoprotein P23)		[Modulate host immune response]	22567094	
+Virulence Factor	PATRIC_VF	Rv2885c		Mycobacterium tuberculosis H37Rv	Rv2885c	887173	15610022	transposase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2912c		Mycobacterium tuberculosis H37Rv	Rv2912c	888017	15610049	TetR family transcriptional regulator		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2921c	ftsY	Mycobacterium tuberculosis H37Rv	Rv2921c	887205	15610058	cell division protein FtsY		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2930	fadD26	Mycobacterium tuberculosis H37Rv	Rv2930	887603	57117038	acyl-CoA synthetase		[Virulence, Cellular metabolism]	14764111, 15958066, 17194612, 20017806, 20553505	
+Virulence Factor	PATRIC_VF	Rv2934	ppsD	Mycobacterium tuberculosis H37Rv	Rv2934	887172	15610071	phenolpthiocerol synthesis type-I polyketide synthase PPSD		[Defense against host immune response]	21576344	
+Virulence Factor	PATRIC_VF	Rv2936	drrA	Mycobacterium tuberculosis H37Rv	Rv2936	888168	15610073	daunorubicin-DIM-transport ATP-binding protein ABC transporter DrrA		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2937	drrB	Mycobacterium tuberculosis H37Rv	Rv2937	887968	15610074	daunorubicin-DIM-transport integral membrane protein ABC transporter DrrB		[Virulence]	14569030, 17030567	
+Virulence Factor	PATRIC_VF	Rv2938	drrC	Mycobacterium tuberculosis H37Rv	Rv2938	888491	15610075	daunorubicin-DIM-transport integral membrane protein ABC transporter DrrC		[Virulence]	10564470, 14569030	
+Virulence Factor	PATRIC_VF	Rv2939	papA5	Mycobacterium tuberculosis H37Rv	Rv2939	887327	15610076	acyltransferase PapA5		[Cellular metabolism]	15749014	
+Virulence Factor	PATRIC_VF	Rv2941	fadD28	Mycobacterium tuberculosis H37Rv	Rv2941	887454	15610078	acyl-CoA synthetase		[Affect phagosome]	20844580	
+Virulence Factor	PATRIC_VF	Rv2942	mmpL7	Mycobacterium tuberculosis H37Rv	Rv2942	887548	15610079	transmembrane transport protein MmpL7		[Virulence, Antibiotic resistance]	10564470, 15908378, 16251328	
+Virulence Factor	PATRIC_VF	Rv2945c	lppX	Mycobacterium tuberculosis H37Rv	Rv2945c	887956	15610082	lipoprotein LppX		[Virulence]	14569030, 16541102, 21148733	
+Virulence Factor	PATRIC_VF	Rv2946c	pks1	Mycobacterium tuberculosis H37Rv	Rv2946c	888122	15610083	polyketide synthase PKS1		[Virulence]	12730158, 15942899	
+Virulence Factor	PATRIC_VF	Rv2947c	pks15	Mycobacterium tuberculosis H37Rv	Rv2947c	887291	15610084	polyketide synthase PKS15		[Virulence]	15942899, 12730158	
+Virulence Factor	PATRIC_VF	Rv2950c	fadD29	Mycobacterium tuberculosis H37Rv	Rv2950c	887202	161352463	acyl-CoA synthetase		[Virulence]	20553505	
+Virulence Factor	PATRIC_VF	Rv2957		Mycobacterium tuberculosis H37Rv	Rv2957	887258	15610094	glycosyl transferase		[Cellular metabolism]	15292272	
+Virulence Factor	PATRIC_VF	Rv2958c		Mycobacterium tuberculosis H37Rv	Rv2958c	887816	15610095	glycosyl transferase		[Avoidance of host defense, Cellular metabolism, Virulence]	10603413, 15292272, 17030567	
+Virulence Factor	PATRIC_VF	Rv2959c		Mycobacterium tuberculosis H37Rv	Rv2959c	887862	15610096	methyltransferase (methylase)		[Cellular metabolism]	15292265	
+Virulence Factor	PATRIC_VF	Rv2962c		Mycobacterium tuberculosis H37Rv	Rv2962c	887892	15610099	glycosyl transferase		[Avoidance of host defense, Cellular metabolism]	10603413, 15292272	
+Virulence Factor	PATRIC_VF	Rv2976c	ung	Mycobacterium tuberculosis H37Rv	Rv2976c	887410	15610113	uracil-DNA glycosylase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2981c	ddl	Mycobacterium tuberculosis H37Rv	Rv2981c	888415	15610118	D-alanyl-alanine synthetase A		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv2984	ppk	Mycobacterium tuberculosis H37Rv	Rv2984	887482	15610121	polyphosphate kinase		[Intracellular survival and replication]	23585537	
+Virulence Factor	PATRIC_VF	Rv2986c	hupB	Mycobacterium tuberculosis H37Rv	Rv2986c	888166	15610123	DNA-binding protein HU		[Intracellular survival and replication]	22863261	
+Virulence Factor	PATRIC_VF	Rv2987c	leuD	Mycobacterium tuberculosis H37Rv	Rv2987c	888225	15610124	isopropylmalate isomerase small subunit		[Cellular metabolism, Intracellular survival and replication]	21549795, 10768986	
+Virulence Factor	PATRIC_VF	Rv2998		Mycobacterium tuberculosis H37Rv	Rv2998	888646	15610135	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3003c	ilvB1	Mycobacterium tuberculosis H37Rv	Rv3003c	887286	57117044	acetolactate synthase 1 catalytic subunit		[Cellular metabolism]	19542000	
+Virulence Factor	PATRIC_VF	Rv3010c	pfkA	Mycobacterium tuberculosis H37Rv	Rv3010c	888509	15610147	6-phosphofructokinase		[Cellular metabolism]	23409118	
+Virulence Factor	PATRIC_VF	Rv3042c	serB2	Mycobacterium tuberculosis H37Rv	Rv3042c	887815	15610179	phosphoserine phosphatase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3050c		Mycobacterium tuberculosis H37Rv	Rv3050c	888866	15610187	AsnC family transcriptional regulator		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3061c	fadE22	Mycobacterium tuberculosis H37Rv	Rv3061c	887617	15610198	acyl-CoA dehydrogenase FADE22		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3080c	pknK	Mycobacterium tuberculosis H37Rv	Rv3080c	888659	15610217	serine/threonine-protein kinase transcriptional regulatory protein		[Intracellular survival and replication]	22740025	
+Virulence Factor	PATRIC_VF	Rv3082c	virS	Mycobacterium tuberculosis H37Rv	Rv3082c	888657	15610219	virulence-regulating transcriptional regulator VirS		[Regulation of gene expression]	14568148	
+Virulence Factor	PATRIC_VF	Rv3083		Mycobacterium tuberculosis H37Rv	Rv3083	888655	15610220	monooxygenase		[Virulence]	15937179	
+Virulence Factor	PATRIC_VF	Rv3084	lipR	Mycobacterium tuberculosis H37Rv	Rv3084	888652	15610221	acetyl-hydrolase/esterase LipR		[Virulence]	15937179	
+Virulence Factor	PATRIC_VF	Rv3085		Mycobacterium tuberculosis H37Rv	Rv3085	888656	15610222	short-chain type dehydrogenase/reductase		[Virulence]	15937179	
+Virulence Factor	PATRIC_VF	Rv3086	adhD	Mycobacterium tuberculosis H37Rv	Rv3086	888654	15610223	zinc-type alcohol dehydrogenase AdhD		[Virulence]	15937179	
+Virulence Factor	PATRIC_VF	Rv3087		Mycobacterium tuberculosis H37Rv	Rv3087	888653	15610224	hypothetical protein		[Virulence, Virulence]	14569030, 15937179	
+Virulence Factor	PATRIC_VF	Rv3088		Mycobacterium tuberculosis H37Rv	Rv3088	888669	15610225	hypothetical protein		[Virulence]	15937179	
+Virulence Factor	PATRIC_VF	Rv3089	fadD13	Mycobacterium tuberculosis H37Rv	Rv3089	888666	15610226	chain-fatty-acid-CoA ligase		[Virulence]	15937179	
+Virulence Factor	PATRIC_VF	Rv3103c		Mycobacterium tuberculosis H37Rv	Rv3103c	888798	15610240	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3111	moaC	Mycobacterium tuberculosis H37Rv	Rv3111	888680	57117057	molybdenum cofactor biosynthesis protein C		[Virulence, Affect phagosome]	17030567, 20844580	
+Virulence Factor	PATRIC_VF	Rv3112	moaD1	Mycobacterium tuberculosis H37Rv	Rv3112	888897	57117058	molybdenum cofactor biosynthesis protein D		[Affect phagosome]	20844580	
+Virulence Factor	PATRIC_VF	Rv3114		Mycobacterium tuberculosis H37Rv	Rv3114	888779	15610251	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3132c	devS	Mycobacterium tuberculosis H37Rv	Rv3132c	888829	15610268	two component sensor histidine kinase DEVS		[Two-component system]	19103767	
+Virulence Factor	PATRIC_VF	Rv3133c	devR	Mycobacterium tuberculosis H37Rv	Rv3133c	888842	15610269	two component transcriptional regulatory protein DevR		[Virulence, Two-component system]	14987770, 20195478, 22563409, 19103767	
+Virulence Factor	PATRIC_VF	Rv3151	nuoG	Mycobacterium tuberculosis H37Rv	Rv3151	887540	15610287	NADH dehydrogenase subunit G		[Anti-apoptosis]	17658950, 20421951	
+Virulence Factor	PATRIC_VF	Rv3168		Mycobacterium tuberculosis H37Rv	Rv3168	888778	15610304	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3178		Mycobacterium tuberculosis H37Rv	Rv3178	888786	15610314	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3210c		Mycobacterium tuberculosis H37Rv	Rv3210c	888876	15610346	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3223c	sigH	Mycobacterium tuberculosis H37Rv	Rv3223c	888094	15610359	RNA polymerase sigma factor RpoE		[Regulation of gene expression]	19376862	
+Virulence Factor	PATRIC_VF	Rv3229c		Mycobacterium tuberculosis H37Rv	Rv3229c	888821	57117078	linoleoyl-CoA desaturase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3236c		Mycobacterium tuberculosis H37Rv	Rv3236c	888861	57117079	integral membrane transport protein		[Affect phagosome, Virulence]	20331644, 14569030	
+Virulence Factor	PATRIC_VF	Rv3246c	mtrA	Mycobacterium tuberculosis H37Rv	Rv3246c	888743	15610382	two component sensory transduction transcriptional regulatory protein MTRA		[Virulence]	16629667	
+Virulence Factor	PATRIC_VF	Rv3252c	alkB	Mycobacterium tuberculosis H37Rv	Rv3252c	888690	15610388	transmembrane alkane 1-monooxygenase AlkB		[Virulence]	17030567	
+Virulence Factor	PATRIC_VF	Rv3258c		Mycobacterium tuberculosis H37Rv	Rv3258c	888694	15610394	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3270	ctpC	Mycobacterium tuberculosis H37Rv	Rv3270	888705	15610406	metal cation-transporting P-type ATPase C CtpC		[Virulence, Zinc uptake]	14569030, 21925112	
+Virulence Factor	PATRIC_VF	Rv3277		Mycobacterium tuberculosis H37Rv	Rv3277	888729	15610413	transmembrane protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3286c	sigF	Mycobacterium tuberculosis H37Rv	Rv3286c	888727	15610422	RNA polymerase sigma factor SigF		[Virulence]	16735723	
+Virulence Factor	PATRIC_VF	Rv3310		Mycobacterium tuberculosis H37Rv	Rv3310	887988	15610446	acid phosphatase		[Virulence]	24205032	
+Virulence Factor	PATRIC_VF	Rv3312A		Mycobacterium tuberculosis H37Rv	Rv3312A	3205113	57117088	secreted protein antigen		[Common pili]	17360408	
+Virulence Factor	PATRIC_VF	Rv3323c	moaX	Mycobacterium tuberculosis H37Rv	Rv3323c	887578	57117090	MOAD-MOAE fusion protein MOAX		[Virulence]	17030567	
+Virulence Factor	PATRIC_VF	Rv3335c		Mycobacterium tuberculosis H37Rv	Rv3335c	888029	15610471	integral membrane protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3343c	PPE54	Mycobacterium tuberculosis H37Rv	Rv3343c	888033	57117092	PPE family protein		[Affect phagosome]	20844580	
+Virulence Factor	PATRIC_VF	Rv3371		Mycobacterium tuberculosis H37Rv	Rv3371	888053	15610507	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3375	amiD	Mycobacterium tuberculosis H37Rv	Rv3375	888064	15610511	amidase AmiD		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3378c		Mycobacterium tuberculosis H37Rv	Rv3378c	888075	15610514	hypothetical protein		[Antiphagocytosis]	21290071	
+Virulence Factor	PATRIC_VF	Rv3400		Mycobacterium tuberculosis H37Rv	Rv3400	887918	15610536	hydrolase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3404c		Mycobacterium tuberculosis H37Rv	Rv3404c	887902	15610540	hypothetical protein		[Virulence]	12368431	
+Virulence Factor	PATRIC_VF	Rv3409c	choD	Mycobacterium tuberculosis H37Rv	Rv3409c	887502	15610545	cholesterol oxidase precursor		[Virulence, Modulate host immune response]	17651430, 24039915	
+Virulence Factor	PATRIC_VF	Rv3414c	sigD	Mycobacterium tuberculosis H37Rv	Rv3414c	887594	15610550	RNA polymerase sigma factor SigD		[Regulation of gene expression]	15375142	
+Virulence Factor	PATRIC_VF	Rv3416	whiB3	Mycobacterium tuberculosis H37Rv	Rv3416	887598	15610552	transcriptional regulatory protein WHIB-like WHIB3		[Virulence, Modulate host immune response]	11880648, 19680450	
+Virulence Factor	PATRIC_VF	Rv3419c	gcp	Mycobacterium tuberculosis H37Rv	Rv3419c	887595	15610555	putative DNA-binding/iron metalloprotein/AP endonuclease		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3472		Mycobacterium tuberculosis H37Rv	Rv3472	888006	15610608	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3484	cpsA	Mycobacterium tuberculosis H37Rv	Rv3484	888445	15610620	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3487c	lipF	Mycobacterium tuberculosis H37Rv	Rv3487c	888430	15610623	esterase/lipase LipF		[Virulence]	10564470	
+Virulence Factor	PATRIC_VF	Rv3489		Mycobacterium tuberculosis H37Rv	Rv3489	888410	15610625	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3495c	lprN	Mycobacterium tuberculosis H37Rv	Rv3495c	888364	15610631	MCE-family lipoprotein LprN		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3499c	mce4A	Mycobacterium tuberculosis H37Rv	Rv3499c	888344	57117113	MCE-family protein MCE4A		[Virulence, Virulence]	14569030, 19019220	
+Virulence Factor	PATRIC_VF	Rv3501c	yrbE4A	Mycobacterium tuberculosis H37Rv	Rv3501c	888320	15610637	integral membrane protein YrbE4a		[Virulence]	14569030, 17030567	
+Virulence Factor	PATRIC_VF	Rv3502c	fabG	Mycobacterium tuberculosis H37Rv	Rv3502c	887697	15610638	3-ketoacyl-(acyl-carrier-protein) reductase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3519		Mycobacterium tuberculosis H37Rv	Rv3519	887247	15610655	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3523	ltp3	Mycobacterium tuberculosis H37Rv	Rv3523	888247	15610659	acetyl-CoA acetyltransferase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3526		Mycobacterium tuberculosis H37Rv	Rv3526	888268	15610662	oxidoreductase		[Intracellular survival and replication]	19906176	
+Virulence Factor	PATRIC_VF	Rv3534c		Mycobacterium tuberculosis H37Rv	Rv3534c	888387	15610670	4-hydroxy-2-ketovalerate aldolase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3537		Mycobacterium tuberculosis H37Rv	Rv3537	888422	15610673	3-ketosteroid-delta-1-dehydrogenase		[Cellular metabolism]	23425360	
+Virulence Factor	PATRIC_VF	Rv3540c	ltp2	Mycobacterium tuberculosis H37Rv	Rv3540c	888450	15610676	lipid-transfer protein		[Virulence, Cellular metabolism]	14569030, 19542286	
+Virulence Factor	PATRIC_VF	Rv3541c		Mycobacterium tuberculosis H37Rv	Rv3541c	888475	15610677	hypothetical protein		[Virulence, Cellular metabolism]	14569030, 19542286	
+Virulence Factor	PATRIC_VF	Rv3542c		Mycobacterium tuberculosis H37Rv	Rv3542c	888486	15610678	hypothetical protein		[Virulence, Cellular metabolism]	14569030, 19542286	
+Virulence Factor	PATRIC_VF	Rv3543c	fadE29	Mycobacterium tuberculosis H37Rv	Rv3543c	888131	15610679	acyl-CoA dehydrogenase FADE29		[Cellular metabolism]	19542286	
+Virulence Factor	PATRIC_VF	Rv3544c	fadE28	Mycobacterium tuberculosis H37Rv	Rv3544c	888091	15610680	acyl-CoA dehydrogenase FADE28		[Virulence, Cellular metabolism]	14569030, 19542286	
+Virulence Factor	PATRIC_VF	Rv3545c	cyp125	Mycobacterium tuberculosis H37Rv	Rv3545c	887782	15610681	cytochrome P450 125		[Virulence, Cellular metabolism]	14569030, 19542286	
+Virulence Factor	PATRIC_VF	Rv3551		Mycobacterium tuberculosis H37Rv	Rv3551	887235	15610687	CoA-transferase subunit alpha		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3556c	fadA6	Mycobacterium tuberculosis H37Rv	Rv3556c	887285	15610692	acetyl-CoA acetyltransferase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3560c	fadE30	Mycobacterium tuberculosis H37Rv	Rv3560c	887838	15610696	acyl-CoA dehydrogenase FADE30		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3563	fadE32	Mycobacterium tuberculosis H37Rv	Rv3563	887818	15610699	acyl-CoA dehydrogenase FADE32		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3568c	bphC	Mycobacterium tuberculosis H37Rv	Rv3568c	887886	15610704	biphenyl-2,3-diol 1,2-dioxygenase		[Virulence]	19300498	
+Virulence Factor	PATRIC_VF	Rv3571	hmp	Mycobacterium tuberculosis H37Rv	Rv3571	887315	15610707	hemoglobine-like protein		[Intracellular survival and replication]	19906176	
+Virulence Factor	PATRIC_VF	Rv3574		Mycobacterium tuberculosis H37Rv	Rv3574	887204	15610710	transcriptional regulatory protein TetR-family		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3583c		Mycobacterium tuberculosis H37Rv	Rv3583c	887854	15610719	transcription factor		[Regulation of gene expression]		
+Virulence Factor	PATRIC_VF	Rv3588c		Mycobacterium tuberculosis H37Rv	Rv3588c	887836	15610724	carbonic anhydrase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3601c	panD	Mycobacterium tuberculosis H37Rv	Rv3601c	885596	15610737	aspartate alpha-decarboxylase		[Cellular metabolism]	12219086, 21549795	
+Virulence Factor	PATRIC_VF	Rv3602c	panC	Mycobacterium tuberculosis H37Rv	Rv3602c	885459	15610738	pantoate--beta-alanine ligase		[Cellular metabolism]	12219086, 21549795	
+Virulence Factor	PATRIC_VF	Rv3614c		Mycobacterium tuberculosis H37Rv	Rv3614c	885777	15610750	hypothetical protein		[Type VII secretion]	22155774	
+Virulence Factor	PATRIC_VF	Rv3615c		Mycobacterium tuberculosis H37Rv	Rv3615c	885770	15610751	hypothetical protein		[Modulate host immune response, Type VII secretion]	21427227, 16135231	
+Virulence Factor	PATRIC_VF	Rv3616c		Mycobacterium tuberculosis H37Rv	Rv3616c	885377	15610752	hypothetical protein		[Virulence associated secretion systems, Type VII secretion]	18591224, 20585630, 24078612, 16030141	
+Virulence Factor	PATRIC_VF	Rv3631		Mycobacterium tuberculosis H37Rv	Rv3631	885314	15610767	transferase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3649		Mycobacterium tuberculosis H37Rv	Rv3649	885841	15610785	helicase		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3651		Mycobacterium tuberculosis H37Rv	Rv3651	885296	15610787	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3654c		Mycobacterium tuberculosis H37Rv	Rv3654c	885612	15610790	hypothetical protein		[Anti-apoptosis]	20454556	
+Virulence Factor	PATRIC_VF	Rv3655c		Mycobacterium tuberculosis H37Rv	Rv3655c	885614	15610791	hypothetical protein		[Anti-apoptosis]	20454556	
+Virulence Factor	PATRIC_VF	Rv3663c	dppD	Mycobacterium tuberculosis H37Rv	Rv3663c	885039	15610799	peptide ABC transporter ATP-binding protein		[Virulence]	14569030, 19671666	
+Virulence Factor	PATRIC_VF	Rv3664c	dppC	Mycobacterium tuberculosis H37Rv	Rv3664c	885483	15610800	peptide ABC transporter transmembrane protein		[Virulence]	19671666	
+Virulence Factor	PATRIC_VF	Rv3665c	dppB	Mycobacterium tuberculosis H37Rv	Rv3665c	885474	15610801	peptide ABC transporter transmembrane protein		[Virulence]	19671666	
+Virulence Factor	PATRIC_VF	Rv3666c	dppA	Mycobacterium tuberculosis H37Rv	Rv3666c	885315	15610802	periplasmic dipeptide-binding lipoprotein DppA		[Virulence]	19671666	
+Virulence Factor	PATRIC_VF	Rv3671c		Mycobacterium tuberculosis H37Rv	Rv3671c	885176	15610807	membrane-associated serine protease		[Acid resistance]	18641659	
+Virulence Factor	PATRIC_VF	Rv3673c		Mycobacterium tuberculosis H37Rv	Rv3673c	885190	15610809	membrane-anchored thioredoxin-like protein		[Virulence]	24045640	
+Virulence Factor	PATRIC_VF	Rv3676		Mycobacterium tuberculosis H37Rv	Rv3676	885502	15610812	CRP/FNR family transcriptional regulator		[Regulation of gene expression]	15882420	
+Virulence Factor	PATRIC_VF	Rv3681c	whiB4	Mycobacterium tuberculosis H37Rv	Rv3681c	885320	57117144	transcriptional regulatory protein WHIB-like WHIB4		[Stress]	22780904	
+Virulence Factor	PATRIC_VF	Rv3682	ponA2	Mycobacterium tuberculosis H37Rv	Rv3682	885751	57117145	bifunctional membrane-associated penicillin-binding protein 1A/1B		[Acid resistance]	19011036	
+Virulence Factor	PATRIC_VF	Rv3683		Mycobacterium tuberculosis H37Rv	Rv3683	885780	15610819	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3701c		Mycobacterium tuberculosis H37Rv	Rv3701c	885521	15610837	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3717		Mycobacterium tuberculosis H37Rv	Rv3717	885602	15610853	hypothetical protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3723		Mycobacterium tuberculosis H37Rv	Rv3723	885791	15610859	transmembrane protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3758c	proV	Mycobacterium tuberculosis H37Rv	Rv3758c	886293	15610894	osmoprotectant (glycine betaine/carnitine/choline/L-proline) transport ATP-binding protein ABC transporter PROV		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3763	lpqH	Mycobacterium tuberculosis H37Rv	Rv3763	886097	15610899	19 kDa lipoprotein antigen precursor LPQH		[Virulence]	17804126	
+Virulence Factor	PATRIC_VF	Rv3781	rfbE	Mycobacterium tuberculosis H37Rv	Rv3781	886113	15610917	o-antigen/lipopolysaccharide transport ATP-binding protein ABC transporter RfbE		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3794	embA	Mycobacterium tuberculosis H37Rv	Rv3794	886123	15610930	integral membrane indolylacetylinositol arabinosyltransferase EMBA (arabinosylindolylacetylinositol synthase)		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	Rv3804c	fbpA	Mycobacterium tuberculosis H37Rv	Rv3804c	886132	15610940	secreted antigen 85-A FBPA (Mycolyl transferase 85A) (fibronectin-binding protein A) (antigen 85 complex A)		[Cell wall, Intracellular survival and replication]	15557632, 10639445, 12010501, 18248626	
+Virulence Factor	PATRIC_VF	Rv3805c		Mycobacterium tuberculosis H37Rv	Rv3805c	886138	15610941	transmembrane protein		[Virulence, Cellular metabolism]	14569030, 17387176	
+Virulence Factor	PATRIC_VF	Rv3810	pirG	Mycobacterium tuberculosis H37Rv	Rv3810	886139	15610946	exported repetitive protein precursor PirG (cell surface protein) (EXP53)		[Intracellular survival and replication, Virulence]	9784137, 12542471, 14569030	
+Virulence Factor	PATRIC_VF	Rv3812	PE_PGRS62	Mycobacterium tuberculosis H37Rv	Rv3812	886143	57117161	PE-PGRS family protein		[Affect phagosome]	23167250	
+Virulence Factor	PATRIC_VF	Rv3820c	papA2	Mycobacterium tuberculosis H37Rv	Rv3820c	886140	57117162	polyketide synthase associated protein PapA2		[Cellular metabolism]	17592143	
+Virulence Factor	PATRIC_VF	Rv3823c	mmpL8	Mycobacterium tuberculosis H37Rv	Rv3823c	886145	15610959	integral membrane transport protein		[Virulence]	15001577, 15908378	
+Virulence Factor	PATRIC_VF	Rv3824c	papA1	Mycobacterium tuberculosis H37Rv	Rv3824c	886156	15610960	polyketide synthase associated protein		[Virulence, Cellular metabolism]	17030567, 17592143	
+Virulence Factor	PATRIC_VF	Rv3841	bfrB	Mycobacterium tuberculosis H37Rv	Rv3841	886176	15610977	bacterioferritin BfrB		[Virulence, Intracellular survival and replication]	17030567, 22101841	
+Virulence Factor	PATRIC_VF	Rv3846	sodA	Mycobacterium tuberculosis H37Rv	Rv3846	886174	15610982	superoxide dismutase [Fe] SODA		[Stress, Defense against host immune response]	11751190, 24270134	
+Virulence Factor	PATRIC_VF	Rv3849		Mycobacterium tuberculosis H37Rv	Rv3849	886184	15610985	hypothetical protein		[Regulation of gene expression]	18685700, 22389481, 22479184	
+Virulence Factor	PATRIC_VF	Rv3864		Mycobacterium tuberculosis H37Rv	Rv3864	886185	15611000	hypothetical protein		[Virulence]	14569030, 16368961	
+Virulence Factor	PATRIC_VF	Rv3865		Mycobacterium tuberculosis H37Rv	Rv3865	886172	15611001	hypothetical protein		[Virulence, Type VII secretion]	21196469, 16368961	
+Virulence Factor	PATRIC_VF	Rv3866		Mycobacterium tuberculosis H37Rv	Rv3866	886200	15611002	hypothetical protein		[Type VII secretion]	16368961	
+Virulence Factor	PATRIC_VF	Rv3867		Mycobacterium tuberculosis H37Rv	Rv3867	886203	15611003	hypothetical protein		[Virulence]	21196469, 16368961	
+Virulence Factor	PATRIC_VF	Rv3868		Mycobacterium tuberculosis H37Rv	Rv3868	886199	15611004	hypothetical protein		[Virulence, Type VII secretion]	12508154, 14569030, 18974091, 19682254	
+Virulence Factor	PATRIC_VF	Rv3869		Mycobacterium tuberculosis H37Rv	Rv3869	886166	15611005	hypothetical protein		[Virulence]	12508154, 14569030	
+Virulence Factor	PATRIC_VF	Rv3870		Mycobacterium tuberculosis H37Rv	Rv3870	886204	15611006	transmembrane protein		[Virulence, Type VII secretion]	12508154, 14756778, 16973880	
+Virulence Factor	PATRIC_VF	Rv3871		Mycobacterium tuberculosis H37Rv	Rv3871	886202	15611007	hypothetical protein		[Virulence, Type VII secretion]	12508154, 14756778, 16973880	
+Virulence Factor	PATRIC_VF	Rv3872	PE35	Mycobacterium tuberculosis H37Rv	Rv3872	886191	57117163	PE family-related protein		[Virulence]	14569030, 16368961, 12508154	
+Virulence Factor	PATRIC_VF	Rv3873	PPE68	Mycobacterium tuberculosis H37Rv	Rv3873	886201	57117164	PPE family protein		[Virulence, Type VII secretion]	14569030, 16368961, 12508154	
+Virulence Factor	PATRIC_VF	Rv3874	esxB	Mycobacterium tuberculosis H37Rv	Rv3874	886194	15611010	10 kDa culture filtrate antigen EsxB		[Virulence, Virulence associated secretion systems, Autophagy]	14756778, 17908204, 18591224, 22885411, 12508154	
+Virulence Factor	PATRIC_VF	Rv3875	esxA	Mycobacterium tuberculosis H37Rv	Rv3875	886209	57117165	6 kDa early secretory antigenic target ESXA (ESAT-6)		[Virulence, Type VII secretion, Autophagy, Modulate host immune response]	12508154, 21740189, 22885411, 22904313, 23867456, 11052907, 22524898, 14756778	
+Virulence Factor	PATRIC_VF	Rv3876		Mycobacterium tuberculosis H37Rv	Rv3876	886206	15611012	hypothetical protein		[Virulence, Type VII secretion]	14569030, 16368961	
+Virulence Factor	PATRIC_VF	Rv3877		Mycobacterium tuberculosis H37Rv	Rv3877	886207	15611013	transmembrane protein		[Virulence]	12508154	
+Virulence Factor	PATRIC_VF	Rv3880c		Mycobacterium tuberculosis H37Rv	Rv3880c	886205	15611016	hypothetical protein		[Affect phagosome]	20844580	
+Virulence Factor	PATRIC_VF	Rv3881c		Mycobacterium tuberculosis H37Rv	Rv3881c	886214	15611017	hypothetical protein		[Type VII secretion]	17676952	
+Virulence Factor	PATRIC_VF	Rv3882c		Mycobacterium tuberculosis H37Rv	Rv3882c	886208	15611018	hypothetical protein		[Virulence, Type VII secretion]	14569030, 16135231	
+Virulence Factor	PATRIC_VF	Rv3887c		Mycobacterium tuberculosis H37Rv	Rv3887c	886211	15611023	transmembrane protein		[Affect phagosome]	17353284	
+Virulence Factor	PATRIC_VF	Rv3910		Mycobacterium tuberculosis H37Rv	Rv3910	886247	15611046	transmembrane protein		[Virulence]	14569030	
+Virulence Factor	PATRIC_VF	VBIMycTub147007_3262		Mycobacterium tuberculosis HN878	VBIMycTub147007_3262			(MTCY24G1.02), len: 496 aa, Probable polyketide synthase, almost identical to G560508 PKS002B (495 aa), fasta scores, opt: 3270, E(): 0, (99.6% identity in 496 aa overlap); contains PS00606 Beta-ketoacyl synthases active site; similar to MTCY338.20 (49.9% identity in 465 aa overlap) and MTCY24G1.09 (50.2% identity in 454 aa overlap) and MTCY22H8.03 (47.6% identity in 437 aa overlap)		[Virulence]	15343336	
+
+
